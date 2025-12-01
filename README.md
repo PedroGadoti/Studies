@@ -1,35 +1,34 @@
 # Studies
-Well, I'm Pedro Gadoti Maciel and now I'm in my first year of graduation in science and technology.
-
-I will use this repository to save my journey through subjets involvings programming.
+Well, I am Pedro Gadoti Maciel, and I am currently in my first year of a Bacheler of Science and Technology degree.
+I will use this repository to document my journey through subjets involving programming.
 
 ## My Journey
- Until here, I already the subjects: Programming Logic and Algorithms and Data Structures I.
+ So far, I have completed the following subjects: Programming Logic and Algorithms & Data Structures I.
 ### Programming Logic
-That subject was taught using C language and these are the topics I had that semester:
-- introduction to computing;
-- notions of logic;
-- concepts and representaion of algorithms;
-- constans and variables;
-- control structures;
-- vectors;
-- matrices;
-- registration and union;
-- procedings, funccions with passing parameters by values and references;
-- recursion;
-- introcuction to programming language.
+This subject was taught using C language, and the semester covered the following topics:
+- Introduction to computing;
+- Notions of logic;
+- Algorithm concepts and representation;
+- Constants and variables;
+- Control structures;
+- Vectors (Arrays);
+- Matrices;
+- Structs and Unions;
+- Procedures and functions (passing parameters by value and reference);
+- Recursion;
+- Introduction to programming languages.
 
 ### Algorithms and Data Structures I
-That subject was taught using C language and these are the topics I had that semester:
-- pointers;
-- dynamic memory allocation (vectors and matrices);
-- creation and manipulation of text and bynary files;
-- basics concepts: asymptotic notation, abstract data types;
-- representation and manipulation of data structures: statics and dynamic lists
-- sequencial lists, linked and doubly linked lists, circular lists, piles, queues, queues and ppiles aplication;
-- tree representation: binary search trees;
-- graph representation: adjacency matrics, incidence and adjacency lists.
-
+This subject was also taught using C, covering the following topics:
+- Pointers;
+- Dynamic memory allocation (vectors and matrices);
+- Creation and manipulation of text and binary files;
+- Basic concepts: asymptotic notation, abstract data types (ADTs);
+- Representation and manipulation of data structures: static and dynamic lists;
+- Sequential lists, linked and doubly linked lists, circular lists;
+- Stacks, queues, and their applications;
+- Tree representation: binary search trees;
+- Graph representation: adjacency matrices, incidence, and adjacency lists.
 
 
 
